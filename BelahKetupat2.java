@@ -2,6 +2,10 @@ package belahketupat;
 
 import java.util.Scanner;
 
+//UPDATE KETUPAT//
+//UPDATE KETUPAT//
+//UPDATE KETUPAT//
+
 public class BelahKetupat2 {
   public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
